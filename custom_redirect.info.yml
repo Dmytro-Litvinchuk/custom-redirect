@@ -1,0 +1,5 @@
+name: 'Custom redirect'
+type: module
+description: 'Redirect user in login page'
+package: Custom
+core: 8.x
